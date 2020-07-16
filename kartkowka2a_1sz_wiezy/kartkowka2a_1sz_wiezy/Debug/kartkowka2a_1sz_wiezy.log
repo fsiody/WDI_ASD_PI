@@ -1,0 +1,4 @@
+﻿  kartkowka2a_1sz_wiezy.cpp
+c:\users\helenka\documents\visual studio 2015\projects\kartkowka2a_1sz_wiezy\kartkowka2a_1sz_wiezy\kartkowka2a_1sz_wiezy.cpp(82): warning C4715: suma: значение возвращается не при всех путях выполнения
+  kartkowka2a_1sz_wiezy.vcxproj -> c:\users\helenka\documents\visual studio 2015\Projects\kartkowka2a_1sz_wiezy\Debug\kartkowka2a_1sz_wiezy.exe
+  kartkowka2a_1sz_wiezy.vcxproj -> c:\users\helenka\documents\visual studio 2015\Projects\kartkowka2a_1sz_wiezy\Debug\kartkowka2a_1sz_wiezy.pdb (Full PDB)

@@ -1,0 +1,5 @@
+﻿  bin.poisk.2016.x^x.cpp
+c:\users\helenka\documents\visual studio 2015\projects\bin.poisk.2016.x^x\bin.poisk.2016.x^x\bin.poisk.2016.x^x.cpp(16): warning C4305: =: усечение из "double" к "float"
+c:\users\helenka\documents\visual studio 2015\projects\bin.poisk.2016.x^x\bin.poisk.2016.x^x\bin.poisk.2016.x^x.cpp(19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  bin.poisk.2016.x^x.vcxproj -> c:\users\helenka\documents\visual studio 2015\Projects\bin.poisk.2016.x^x\Debug\bin.poisk.2016.x^x.exe
+  bin.poisk.2016.x^x.vcxproj -> c:\users\helenka\documents\visual studio 2015\Projects\bin.poisk.2016.x^x\Debug\bin.poisk.2016.x^x.pdb (Full PDB)

@@ -1,0 +1,4 @@
+﻿  rek_odwazniki.cpp
+c:\users\helenka\documents\visual studio 2015\projects\rek_odwazniki\rek_odwazniki\rek_odwazniki.cpp(18): warning C4715: odwaz: значение возвращается не при всех путях выполнения
+  rek_odwazniki.vcxproj -> c:\users\helenka\documents\visual studio 2015\Projects\rek_odwazniki\Debug\rek_odwazniki.exe
+  rek_odwazniki.vcxproj -> c:\users\helenka\documents\visual studio 2015\Projects\rek_odwazniki\Debug\rek_odwazniki.pdb (Full PDB)

@@ -1,0 +1,4 @@
+﻿  Z1_7_sito_eratosfena.cpp
+c:\users\helenka\documents\visual studio 2015\projects\z1_7_sito_eratosfena\z1_7_sito_eratosfena\z1_7_sito_eratosfena.cpp(21): warning C4804: %: небезопасное использование типа "bool" в операции
+  Z1_7_sito_eratosfena.vcxproj -> c:\users\helenka\documents\visual studio 2015\Projects\Z1_7_sito_eratosfena\Debug\Z1_7_sito_eratosfena.exe
+  Z1_7_sito_eratosfena.vcxproj -> c:\users\helenka\documents\visual studio 2015\Projects\Z1_7_sito_eratosfena\Debug\Z1_7_sito_eratosfena.pdb (Full PDB)

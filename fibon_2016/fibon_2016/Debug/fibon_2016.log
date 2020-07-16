@@ -1,0 +1,3 @@
+﻿  fibon_2016.cpp
+c:\users\helenka\documents\visual studio 2015\projects\fibon_2016\fibon_2016\fibon_2016.cpp(11): error C2086: int c[100]: переопределение
+  c:\users\helenka\documents\visual studio 2015\projects\fibon_2016\fibon_2016\fibon_2016.cpp(11): note:  см. объявление "c"

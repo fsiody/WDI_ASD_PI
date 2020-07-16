@@ -1,0 +1,4 @@
+﻿  rek_suma_liczb_t.cpp
+c:\users\helenka\documents\visual studio 2015\projects\rek_suma_liczb_t\rek_suma_liczb_t\rek_suma_liczb_t.cpp(14): warning C4715: suma: значение возвращается не при всех путях выполнения
+  rek_suma_liczb_t.vcxproj -> c:\users\helenka\documents\visual studio 2015\Projects\rek_suma_liczb_t\Debug\rek_suma_liczb_t.exe
+  rek_suma_liczb_t.vcxproj -> c:\users\helenka\documents\visual studio 2015\Projects\rek_suma_liczb_t\Debug\rek_suma_liczb_t.pdb (Full PDB)

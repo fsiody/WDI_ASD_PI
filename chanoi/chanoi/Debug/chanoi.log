@@ -1,0 +1,5 @@
+﻿  chanoi.cpp
+c:\users\helenka\documents\visual studio 2015\projects\chanoi\chanoi\chanoi.cpp(25): warning C4305: инициализация: усечение из "int" к "char"
+c:\users\helenka\documents\visual studio 2015\projects\chanoi\chanoi\chanoi.cpp(25): warning C4309: инициализация: усечение константного значения
+  chanoi.vcxproj -> c:\users\helenka\documents\visual studio 2015\Projects\chanoi\Debug\chanoi.exe
+  chanoi.vcxproj -> c:\users\helenka\documents\visual studio 2015\Projects\chanoi\Debug\chanoi.pdb (Full PDB)

@@ -1,0 +1,6 @@
+﻿  Z1_10_nwd3.cpp
+c:\users\helenka\documents\visual studio 2015\projects\z1_10_nwd3\z1_10_nwd3\z1_10_nwd3.cpp(26): warning C4101: nab: неиспользованная локальная переменная
+c:\users\helenka\documents\visual studio 2015\projects\z1_10_nwd3\z1_10_nwd3\z1_10_nwd3.cpp(26): warning C4101: nac: неиспользованная локальная переменная
+c:\users\helenka\documents\visual studio 2015\projects\z1_10_nwd3\z1_10_nwd3\z1_10_nwd3.cpp(26): warning C4101: nbc: неиспользованная локальная переменная
+  Z1_10_nwd3.vcxproj -> c:\users\helenka\documents\visual studio 2015\Projects\Z1_10_nwd3\Debug\Z1_10_nwd3.exe
+  Z1_10_nwd3.vcxproj -> c:\users\helenka\documents\visual studio 2015\Projects\Z1_10_nwd3\Debug\Z1_10_nwd3.pdb (Full PDB)
