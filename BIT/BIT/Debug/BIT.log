@@ -1,0 +1,3 @@
+﻿  BIT.cpp
+c:\users\helen\source\repos\bit\bit\bit.cpp(346): warning C4566: character represented by universal-character-name '\u0105' cannot be represented in the current code page (1252)
+  BIT.vcxproj -> c:\Users\helen\source\repos\BIT\Debug\BIT.exe

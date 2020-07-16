@@ -1,0 +1,3 @@
+﻿  greedy.cpp
+c:\users\helen\source\repos\greedy\greedy\greedy.cpp(1): error C2855: command-line option '/source-charset' inconsistent with precompiled header
+c:\users\helen\source\repos\greedy\greedy\greedy.cpp(1): error C2855: command-line option '/execution-charset' inconsistent with precompiled header

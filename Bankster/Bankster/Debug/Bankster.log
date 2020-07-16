@@ -1,0 +1,3 @@
+﻿  Bankster.cpp
+c:\users\helen\source\repos\bankster\bankster\bankster.cpp(66): warning C4715: 'relax': not all control paths return a value
+  Bankster.vcxproj -> C:\Users\helen\source\repos\Bankster\Debug\Bankster.exe

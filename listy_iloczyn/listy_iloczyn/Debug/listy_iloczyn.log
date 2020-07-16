@@ -1,0 +1,3 @@
+﻿  listy_iloczyn.cpp
+c:\users\helen\source\repos\listy_iloczyn\listy_iloczyn\listy_iloczyn.cpp(63): warning C4101: 'tmp': unreferenced local variable
+  listy_iloczyn.vcxproj -> c:\users\helen\source\repos\listy_iloczyn\Debug\listy_iloczyn.exe

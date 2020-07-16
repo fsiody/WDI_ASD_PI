@@ -1,0 +1,3 @@
+﻿  BST1.cpp
+c:\users\helen\source\repos\bst1\bst1\bst1.cpp(98): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  BST1.vcxproj -> c:\Users\helen\source\repos\BST1\Debug\BST1.exe

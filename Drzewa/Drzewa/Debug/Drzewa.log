@@ -1,0 +1,3 @@
+﻿  Drzewa.cpp
+c:\users\helen\source\repos\drzewa\drzewa\drzewa.cpp(220): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Drzewa.vcxproj -> c:\Users\helen\source\repos\Drzewa\Debug\Drzewa.exe

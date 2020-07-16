@@ -1,0 +1,86 @@
+// hlooop.cpp : Defines the entry point for the console application.
+//
+
+#include "stdafx.h"
+#include <stdio.h>
+#include <list>
+
+using namespace std;
+
+int n;
+list<int> *graph;
+list<int> *line;
+
+
+void euler(int u) {
+	while (!graph[u].empty())
+	{
+		int v = graph[u].front();// take first neighbour of u
+		graph[u].pop_front();
+
+		// iterate over neighbours of v
+		// you can use list<int>::iterator it = graph[v].begin()
+		// which makes "it" iterator (sth like pointer) pointing on first element of graph[v] list
+		// iterator can be moved to next position like this: it++
+		// and if you move it after last element of list it will be equal to graph[v].end()
+		list<int>::iterator it = graph[v].begin();
+		while (it != graph[v].end())
+		{
+			if (*it == u)// if you find u remove it from list
+			{
+				list<int>::iterator tmp = it;// you can access element pointed by iterator just like with pointer
+				it++;
+				graph[v].erase(tmp); // use erase method
+			}
+			else it++;
+		}
+		euler(v); // recursively enter v
+	}
+	line->push_front(u);	// add city to line
+}
+
+int main() {
+	int Z;
+
+	scanf("%d", &Z);
+
+	while (Z--) {
+
+		int m, u, v;
+		scanf("%d %d", &n, &m);
+
+		graph = new list<int>[n + 2];
+		line = new list<int>;
+
+		for (int i = 0; i<m; i++) {
+			scanf("%d %d", &u, &v);
+			graph[u].push_back(v);
+			graph[v].push_back(u);
+		}
+
+		int start = 1;
+		for (int i = 1; i <= n; i++)
+		{
+			// find starting city for euler
+			// it must be a vertex with odd number of neighbours if it exists
+			// or any one if every one has even degree
+			if (graph[i].size() % 2 != 0)
+			{
+				start = i;
+			}
+		}
+
+		// start euler from correct city           
+		euler(start);
+		line->pop_back();
+		printf("1\n");
+		printf("%lu ", line->size());
+		for (list<int>::iterator it = line->begin(); it != line->end(); it++) {
+			printf("%d ", *it);
+		}
+		printf("\n");
+
+		delete[] graph;
+		delete line;
+	}
+}

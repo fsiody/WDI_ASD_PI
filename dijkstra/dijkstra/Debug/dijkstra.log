@@ -1,0 +1,3 @@
+﻿  dijkstra.cpp
+c:\users\helen\source\repos\dijkstra\dijkstra\dijkstra.cpp(49): warning C4018: '<': signed/unsigned mismatch
+  dijkstra.vcxproj -> C:\Users\helen\source\repos\dijkstra\Debug\dijkstra.exe
